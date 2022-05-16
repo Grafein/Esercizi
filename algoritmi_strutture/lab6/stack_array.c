@@ -61,7 +61,9 @@
         int i=itop;
 
         if (i==-1) {
+          
           printf("Pila vuota\n");
+          
         }else{
 
           while((i)!=-1) {
